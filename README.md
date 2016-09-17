@@ -4,10 +4,7 @@
 - Hello world
 - User agent
 - Screen capture
-- Page automation
-- Network monitoring
 - Crawling data from website
-- Testing
 
 ## How to use
 First of all, please install PhantomJS on your device.
